@@ -1,0 +1,13 @@
+#colorButton {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+}
+
+#colorDisplay {
+    font-size: 24px;
+    margin-top: 20px;
+}
